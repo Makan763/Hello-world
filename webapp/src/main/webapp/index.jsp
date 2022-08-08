@@ -32,7 +32,8 @@
     <p>Ce compte existe <a href="#">Se Connecter</a>.</p>
   </div>
 
-   <h1> Merci!!!, bonne formation</h1>
+   <h1> Merci*****!!!, bonne formation</h1>
+
 
   
 </form>
