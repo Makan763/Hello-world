@@ -6,7 +6,12 @@
     <hr>
      
     <label for="Name"><b>Ecrivez votre nom</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+   
+    <br>
+
+  <label for="FirstName"><b>Ecrivez votre prenom</b></label>
+    <input type="text" placeholder="Enter  FirstNName" name="FirstName" id="FirstName" required>
     <br>
     
     <label for="mobile"><b>Ecrivez votre numéro</b></label>
