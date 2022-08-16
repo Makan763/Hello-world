@@ -36,8 +36,5 @@
     <p>Ce compte existe <a href="#">Se Connecter</a>.</p>
   </div>
 
-   <h2>Merci!!! Monsieur DIOMBANA have you a nice day</h2>
-
-
   
 </form>
