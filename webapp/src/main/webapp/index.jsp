@@ -35,6 +35,6 @@
   <div class="container signin">
     <p>Ce compte existe <a href="#">Se Connecter</a>.</p>
   </div>
-  <h1><span>Merci Makan DIOMBANA</span></h1>
+  <h1><span>Merci Makan DIOMBANA, bon travail</span></h1>
   
 </form>
